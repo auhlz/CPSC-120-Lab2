@@ -1,4 +1,3 @@
-
 // Alex Labitigan
 // CPSC 120-01
 // 2022-09-1
@@ -10,7 +9,6 @@
 //
 // Add two numbers together.
 //
-
 #include <cmath>
 #include <iostream>
 
@@ -25,12 +23,10 @@ int main(int argc, char const *argv[]) {
   // For integer variables assigning them 0 or other integer value is a good
   // practice. For doubles and floats using NAN which means 'not a number' is a
   // good value to use.
-
   double a = NAN;
   double b = NAN;
   double c = NAN;
   double discriminant = NAN;
-
   // In 4x^2, a is 4
   a = 4.0;
   // In + 7x, b is 7
@@ -39,17 +35,12 @@ int main(int argc, char const *argv[]) {
   c = -13.0;
   discriminant = (b * b) - (4 * a * c);
   if (discriminant >= 0 and a != 0.0) {
-
   double first_solution = (-b + sqrt(discriminant)) / (2 * a);
   double second_solution = (-b - sqrt(discriminant)) / (2 * a);
-
   cout << "There are two solutions for 4x^2 + 7x - 13 = 0.\n";
   cout << "The first is " << first_solution << " and the second is " << second_solution << ".\n";
-
    } else {
-
   cout << "There are no Real roots for 4x^2 + 7x - 13 = 0\n";
-  
   return 0;
    }
 }
