@@ -4,7 +4,7 @@
 // alexlabitigan@csu.fullerton.edu
 // @auhlz
 //
-// Lab 2
+// Lab 02-02
 // Partners: @baraadamer
 //
 // Lab 02-01
