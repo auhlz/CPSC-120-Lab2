@@ -4,11 +4,12 @@
 // alexlabitigan@csu.fullerton.edu
 // @auhlz
 //
-// Lab 2
+// Lab 02-03
 // Partners: @baraadamer
 //
-// Lab 02-03
+// This is part 3 of lab 2 its a hello world program
 //
+
 #include <iostream>
 using namespace std;
 int main(int argc, char const* argv[]) {
