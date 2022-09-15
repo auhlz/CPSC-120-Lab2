@@ -1,5 +1,5 @@
 // Alex Labitigan
-// CPSC 120-01
+// CPSC 120-12
 // 2022-09-01
 // alexlabitigan@csu.fullerton.edu
 // @auhlz
