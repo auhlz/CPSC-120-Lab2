@@ -5,7 +5,7 @@
 // @auhlz
 //
 // Lab 2
-// Partner: @baraadamer
+// Partners: @baraadamer
 //
 // Lab 02-01
 //
