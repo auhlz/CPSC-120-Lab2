@@ -7,7 +7,7 @@
 // Lab 02-01
 // Partners: @baraadamer
 //
-// This is lab 2 part 1 
+// This is lab 2 part 1
 //
 
 #include <cmath>
